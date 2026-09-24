@@ -11,12 +11,12 @@ PROJECT STRUCTURE
 app.py – Flask backend requirements.txt – backend dependencies index.html – frontend dashboard
 
 SETUP
-Install dependencies using pip install -r requirements.txt
-Run backend 
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-Open index.html in browser
+- Install dependencies using pip install -r requirements.txt
+- Run backend 
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- python app.py
+- Open index.html in browser
 
 RITESH PRATAP SINGH
