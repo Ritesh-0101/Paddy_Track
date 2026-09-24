@@ -1,4 +1,4 @@
-PaddyTrack — Advanced Paddy Crop Classification & Monitoring System
+# PaddyTrack — Advanced Paddy Crop Classification & Monitoring System
 PaddyTrack is a full-stack web application for paddy crop classification, monitoring, and yield estimation using satellite-inspired analytics. It provides an interactive dashboard with NDVI-based growth tracking, land cover analysis, crop health insights, and downloadable reports.
 
 FEATURES
@@ -12,6 +12,11 @@ app.py – Flask backend requirements.txt – backend dependencies index.html �
 
 SETUP
 Install dependencies using pip install -r requirements.txt
-Run backend using python app.py
+Run backend 
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
 Open index.html in browser
+
 RITESH PRATAP SINGH
