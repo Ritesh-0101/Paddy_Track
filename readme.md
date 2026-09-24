@@ -2,16 +2,26 @@
 PaddyTrack is a full-stack web application for paddy crop classification, monitoring, and yield estimation using satellite-inspired analytics. It provides an interactive dashboard with NDVI-based growth tracking, land cover analysis, crop health insights, and downloadable reports.
 
 FEATURES
-• Area of Interest (AOI) selection with predefined regions and custom drawing 
-• Classification metrics: Accuracy, Kappa, Precision, Recall, F1-score 
-• NDVI-based seasonal crop monitoring 
-• Yield estimation with regional comparison 
-• Land cover distribution analysis 
-• Crop health and water management insights 
-• Downloadable analysis report
+- Area of Interest (AOI) selection with predefined regions and custom drawing 
+- Classification metrics: Accuracy, Kappa, Precision, Recall, F1-score 
+- NDVI-based seasonal crop monitoring 
+- Yield estimation with regional comparison 
+- Land cover distribution analysis 
+- Crop health and water management insights 
+- Downloadable analysis report
 
 TECH STACK
-Backend: Python, Flask, Flask-CORS, NumPy Frontend: HTML, Tailwind CSS, JavaScript, Leaflet.js, Chart.js
+Backend: 
+- Python
+- Flask
+- Flask-CORS
+- NumPy
+Frontend:
+- HTML
+- Tailwind CSS
+- JavaScript
+- Leaflet.js
+- Chart.js
 
 PROJECT STRUCTURE
 app.py – Flask backend requirements.txt – backend dependencies index.html – frontend dashboard
